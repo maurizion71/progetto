@@ -1,0 +1,8 @@
+SMALLINT,VARCHAR(50)
+,
+ID_LivelloImpatto,DescrizioneLivelloImpatto
+1,Impatto Minimo
+2,Impatto Basso
+3,Impatto Medio
+4,Impatto Alto
+12,Impatto Minimo / Basso

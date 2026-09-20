@@ -1,0 +1,8 @@
+SMALLINT,VARCHAR(50)
+,
+ID_ModoErogazione,DescrizioneModoErogazione
+1,On-Premise (in casa)
+2,Cloud IaaS (Infrastruttura come servizio)
+3,Cloud PaaS (Piattaforma come servizio)
+4,Cloud SaaS (Software come servizio)
+5,Housing / Colocation (presso locali affittati)

@@ -1,0 +1,7 @@
+SMALLINT,VARCHAR(50),VARCHAR(200)
+,,
+ID_LivelloCriticita,NomeLivelloCriticita,DescrizioneLivelloCriticita
+1,Basso,impatto trascurabile
+2,Medio,impatto limitato con rallentamenti e disagi ma senza blocchi e senza fughe di dati
+3,Alto,impatto significativo con interruzioni parziali e/o con violazione di dati riservati
+4,Critico,"impatto massimo, con blocchi totali e/o compromissione di dati"

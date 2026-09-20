@@ -1,0 +1,7 @@
+SMALLINT,VARCHAR(50)
+,
+ID_CriterioRilevanza,DescrizioneCriterioRilevanza
+0,Fornitura non rilevante (no portale ACN)
+1,Fornitura ICT
+2,Fornitura non fungibile
+3,Fornitura ICT non fungibile

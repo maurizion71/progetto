@@ -1,0 +1,6 @@
+SMALLINT,VARCHAR(50)
+,
+ID_ClasseRete,NomeClasseRete
+1,WAN (rete pubblica)
+2,DMZ (Demilitarized zone - rete perimetrale)
+3,LAN (rete interna)

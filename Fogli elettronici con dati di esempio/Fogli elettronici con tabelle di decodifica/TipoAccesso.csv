@@ -1,0 +1,13 @@
+SMALLINT,VARCHAR(50)
+,
+ID_TipoAccesso,NomeTipoAccesso
+0,Nessun accesso
+1,Accesso fisico
+2,VPN (Virtual Private Network)
+3,SSH (Secure Shell)
+4,RDP (Remote Desktop Protocol)
+5,ZTNA (Zero Trust Network Access)
+6,Controllo Remoto (software di terze parti)
+7,VDI (Virtual Desktopo Infrastructure - Cloud PC)
+8,Accesso Browser (Reverse Proxy Web/Portali HTTPS)
+9,Altre modalità

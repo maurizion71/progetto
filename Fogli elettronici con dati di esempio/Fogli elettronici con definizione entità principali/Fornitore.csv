@@ -1,0 +1,3 @@
+SMALLINT,VARCHAR(50),VARCHAR(50),VARCHAR(2),VARCHAR(100),VARCHAR(200),VARCHAR(100),VARCHAR(100),SMALLINT
+,,,NOT NULL,,,,,NOT NULL
+ID_Fornitore,DenominazioneFornitore,CodiceFiscaleFornitore,PaeseFornitore,CertificazioniFornitore,AuditFornitore,IndirizzoFornitore,RecapitiFornitore,ResponsabileFornitore

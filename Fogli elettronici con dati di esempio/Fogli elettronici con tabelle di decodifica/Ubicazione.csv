@@ -1,0 +1,7 @@
+SMALLINT,VARCHAR(50)
+,
+ID_Ubicazione,DescrizioneUbicazione
+1,Italia
+2,UE
+3,Extra UE
+4,Non determinabile

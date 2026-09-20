@@ -1,0 +1,13 @@
+SMALLINT,VARCHAR(50),VARCHAR(200),SMALLINT
+,,,
+ID_MacroArea,DenominazioneMacroArea,DescrizioneMacroArea,RilevanzaMacroArea
+1,Monitoraggio e controllo,"Supervisione, telecontrollo, automazione industriale e sicurezza dei sistemi fisici e logici (Impatto: Alto)",4
+2,Produzione di beni e servizi,Attività core legate all'erogazione dei servizi essenziali o alla fabbricazione di prodotti (Impatto: Medio),3
+3,"Ricerca, sviluppo e progettazione","Ideazione di nuovi prodotti, brevetti, design e sviluppo di soluzioni tecnologiche (Impatto: Medio)",3
+4,Logistica,"Gestione della catena di approvvigionamento, trasporti, stoccaggio e distribuzione delle merci (Impatto: Basso / Minimo)",12
+5,Gestione dei clienti,"Servizi di assistenza, vendite, supporto tecnico e gestione dei dati della clientela (Impatto: Basso)",2
+6,Gestione finanziaria,"Contabilità generale, tesoreria, investimenti, fatturazione e rendicontazione economica (Impatto: Basso)",2
+7,Gestione delle risorse umane,"Selezione del personale, paghe, formazione, organigramma e relazioni sindacali (Impatto: Basso)",2
+8,Gestione amministrativa,"Segreteria, affari legali, compliance normativa e gestione documentale interna (Impatto: Minimo)",1
+9,Comunicazione e marketing,"Pubbliche relazioni, campagne pubblicitarie, gestione del brand e canali social (Impatto: Minimo)",1
+10,Altri servizi e attività,Funzioni residue non incluse nelle categorie precedenti (Impatto: Minimo),1

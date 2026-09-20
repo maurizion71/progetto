@@ -1,0 +1,3 @@
+INTEGER,CHAR(1),TIMESTAMP WITH TIME ZONE,SMALLINT,VARCHAR(50),VARCHAR(200),SMALLINT,SMALLINT,VARCHAR(200),VARCHAR(20),VARCHAR(20),SMALLINT
+GENERATED ALWAYS AS IDENTITY ,,,,,,NOT NULL,NOT NULL,,,,NOT NULL
+K_ServizioErogato,Operazione_SE,DataVariazione_SE,S_ID_ServizioErogato,S_NomeServizioErogato,S_DescrizioneServizioErogato,S_NumeroMacroArea,S_CategoriaRilevanzaAttribuita,S_MotivazioneCategoria,S_RTO_SE,S_RPO_SE,S_Responsabile_SE

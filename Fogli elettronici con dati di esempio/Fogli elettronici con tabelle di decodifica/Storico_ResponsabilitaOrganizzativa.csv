@@ -1,0 +1,3 @@
+INTEGER,CHAR(1),TIMESTAMP WITH TIME ZONE,SMALLINT,VARCHAR(50),VARCHAR(200),VARCHAR(100),VARCHAR(50),SMALLINT
+GENERATED ALWAYS AS IDENTITY ,,,,,,,,
+K_ResponsabilitaOrganizzativa,Operazione_RO,DataVariazione_RO,S_ID_ResponsabilitaOrganizzativa,S_Nominativo_RO,S_RuoloFunzione_RO,S_ContattiPrimari_RO,S_ContattiReperibilita_RO,S_ID_Sostituto_RO

@@ -1,0 +1,3 @@
+SMALLINT,SMALLINT,VARCHAR(200),SMALLINT,SMALLINT,SMALLINT,SMALLINT,VARCHAR(20),VARCHAR(20)
+,,,,,,,,
+ID_Asset_DASE,ID_ServizioErogato_DASE,Descrizione_DASE,CriticitaCiaConfidenzialita_DASE,CriticitaCiaIntegrita_DASE,CriticitaCiaDisponibilita_DASE,CriticitaCiaComplessiva_DASE,RTO_DASE,RPO_DASE
